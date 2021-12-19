@@ -1,6 +1,6 @@
 - 👋 Grant
-- 👀 Developer 
 - 🌱 18
+- 👀 Developer SQL,HTML,PHP,C++
 
 <!---
 Grant46/Grant46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
