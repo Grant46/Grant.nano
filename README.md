@@ -8,4 +8,4 @@ the code present in the repositories is extracted from exercises performed over 
 
 I will try to keep the repositories updated with the most famous examples
 
-N.B so maybe within this year you'll be programming 1 and 2
+N.B so maybe within this year you'll be programming 1 and 2 xD
